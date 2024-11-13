@@ -1,5 +1,5 @@
-# Telecom-Churn
-Project Overview: Telecom Company Customer Churn Analysis
+# Telecom-Churn-Dashboard
+* Project Overview: Telecom Company Customer Churn Analysis
 This project involves a comprehensive analysis of customer churn and revenue data for a telecom company. The dataset was first cleaned and refined to ensure its accuracy and consistency. Missing fields were handled, columns were adjusted, and new metrics were created in Power BI to provide more actionable insights. The final analysis includes an overview of revenue, churn, and service utilization, offering a deeper understanding of customer behavior and business performance.
 
 Key Insights:
